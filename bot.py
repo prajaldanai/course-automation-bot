@@ -78,5 +78,3 @@ while True:
         break
 
 driver.quit()
-
-# git push
